@@ -30,7 +30,7 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="Jammizzle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jammizzle&count_private=true&theme=aura&hide=stars" />
+<img align="left" alt="Jammizzle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jammizzle&count_private=true&theme=aura&hide=stars&show_icons=true" />
 
 
 [instagram]: https://instagram.com/jamie.belcherx
