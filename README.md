@@ -35,6 +35,6 @@
 
 [instagram]: https://instagram.com/jamie.belcherx
 [linkedin]: https://linkedin.com/in/jamiebelcher
-[website]: https://dochq.co.uk
+[website]: https://www.i-neda.com
 
 
